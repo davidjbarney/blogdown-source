@@ -26,7 +26,7 @@ enableRobotsTXT = true
 author = "David Barney"
 intro = "Data Scientist"
 description = "davidjbarney [at] gmail [dot] com"
-authorimage = "db_headshot.png"
+authorimage = "/db_headshot.png"
 dateformat = "Feb 13, 2020"
 
 ## Site Meta Settings
