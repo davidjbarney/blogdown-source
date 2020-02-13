@@ -1,0 +1,61 @@
+## Basic Configuration
+
+baseurl = "https://davidjbarney.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishDir = "../davidjbarney.github.io"
+
+author = "David J. Barney"
+title = "davidjbarney"
+
+theme = "hugo-goa"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$",
+"_files$", "_cache$"]
+
+## Hugo Built-in Features
+googleAnalytics = "UA-125192707-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "David Barney"
+intro = "Data Scientist"
+description = "davidjbarney [at] gmail [dot] com"
+authorimage = "db_headshot.png"
+dateformat = "Feb 13, 2020"
+
+## Site Meta Settings
+[params.meta]
+description = "davidjbarney"
+keywords = "statistics,data,science,r,rstats,python"
+
+## Social Accounts
+[params.social]
+twitter = "davidjbarney"
+github = "davidjbarney"
+linkedin = "david-barney-28216a164"
+
+
+## Extras
+[params.extra]
+poweredby = true
+highlightjs = true
+socialmarkup = true
+#toc = true
+
+## Main Menu
+#[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
