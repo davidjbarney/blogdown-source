@@ -24,7 +24,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "David Barney"
-intro = "Crunching the numbers"
+#intro = ""
 description = "davidjbarney [at] gmail [dot] com"
 authorimage = "/db_headshot.png"
 dateformat = "Feb 13, 2020"
