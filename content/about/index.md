@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2020-02-13"
+date = "2020-05-15"
 draft = false
 slug = ""
 tags = ["about"]
@@ -10,5 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-Placeholder!
+I'm into all things quantitative research & behavioral science.
 
+Now: Applied Research at Burning Glass Technologies
+Previously: WarnerMedia, Cooperative Congressional Election Study, UMass
