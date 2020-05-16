@@ -12,5 +12,6 @@ showpagemeta = false
 
 I'm into all things quantitative research & behavioral science.
 
-Now: Applied Research at Burning Glass Technologies
-Previously: WarnerMedia, Cooperative Congressional Election Study, UMass
+*Now*: Applied Research at Burning Glass Technologies
+
+*Previously*: WarnerMedia, Cooperative Congressional Election Study, UMass
