@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2020-05-15"
+date = "2020-06-14"
 draft = false
 slug = ""
 tags = ["about"]
