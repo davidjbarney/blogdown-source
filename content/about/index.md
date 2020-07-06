@@ -10,8 +10,10 @@ title = "About"
 showpagemeta = false
 +++
 
-I'm a quantitative researcher specializing in behavioral science. Feel free to drop me a line!
+Hey! I'm David, and I'm a quantitative social scientist. 
 
-I currently work on the Applied Research team at Burning Glass Technologies, where I manage and execute labor market studies for industry clients. 
+I work at Burning Glass Technologies, where I conduct labor market research for industry clients. Prior to Burning Glass, I was a survey researcher at WarnerMedia focused on consumer insights.
 
-*Previously*: WarnerMedia, Cooperative Congressional Election Study, UMass Amherst, UMass Lowell
+I earned my B.A. in Political Science from UMass Lowell, and my M.A. in Political Science from UMass Amherst. As a graduate student, I worked on the Cooperative Congressional Election Study.
+
+Feel free to drop me a line!
