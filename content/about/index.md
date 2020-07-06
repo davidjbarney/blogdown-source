@@ -10,8 +10,8 @@ title = "About"
 showpagemeta = false
 +++
 
-I'm into all things quantitative research & behavioral science.
+I'm a quantitative researcher specializing in behavioral science. Feel free to drop me a line!
 
-*Now*: Applied Research at Burning Glass Technologies
+I currently work on the Applied Research team at Burning Glass Technologies, where I manage and execute labor market studies for industry clients. 
 
-*Previously*: WarnerMedia, Cooperative Congressional Election Study, UMass
+*Previously*: WarnerMedia, Cooperative Congressional Election Study, UMass Amherst, UMass Lowell
