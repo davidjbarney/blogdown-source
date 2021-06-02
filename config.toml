@@ -32,7 +32,7 @@ dateformat = "Feb 13, 2020"
 ## Site Meta Settings
 [params.meta]
 description = "davidjbarney"
-keywords = "statistics,data,science,r,rstats,python"
+keywords = "statistics,analytics,research,quant,rstats,python,sql"
 
 ## Social Accounts
 [params.social]
